@@ -1,0 +1,54 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "language": "العربية"
+  },
+  "hero": {
+    "title1": "Welcome to Al Abaraj Al Samia",
+    "title2": "Welcome to Al Abaraj Al Samia",
+    "title3": "Welcome to Al Abaraj Al Samia"
+  },
+  "about": {
+    "heading": "About Us",
+    "mission_title": "Our Mission",
+    "mission_text": "At Al Abaraj Al Samia, our mission is to deliver high-quality plumbing, electrical, and painting services that exceed customer expectations. We aim to combine reliability, professionalism, and craftsmanship to ensure every home and space we work on is safe, functional, and beautifully maintained.",
+    "story_title": "Our Story",
+    "story_text": "Founded with a passion for excellence and a commitment to service, Al Abaraj Al Samia began as a small team of skilled technicians in Saudi Arabia. Over the years, we have grown into a trusted name in the community, proudly serving homeowners and businesses with a focus on honesty, quality, and long-term relationships."
+  },
+  "services": {
+    "heading": "Our Services",
+    "learn":"learn",
+    "plumbing": {
+      "title": "Plumbing",
+      "desc": "We provide expert plumbing services for homes and businesses. From pipe repairs to installations, our team ensures everything flows smoothly."
+    },
+    "electrical": {
+      "title": "Electrical",
+      "desc": "Reliable and safe electrical solutions tailored to your needs. From wiring to lighting, we power your home with precision and care."
+    },
+    "painting": {
+      "title": "House Painting",
+      "desc": "Give your space a fresh, vibrant look with our professional painting services. We use high-quality paints and skilled hands for a flawless finish."
+    }
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit",
+    "success": "Your message has been sent!",
+    "left_1":"Get in Touch",
+    "left_1_desc":"We'd love to hear from you! Whether you have a question about our services or just want to say hello, feel free to reach out.",
+    "location":"Saudia Arabia"
+  },
+  "footer": {
+    "heading":"Let's Talk",
+    "developed": "Developed by SamSoftix",
+    "intern": "Intern: [Your Name]",
+    "supervisor": "Supervisor: [Supervisor Name]"
+  }
+}
